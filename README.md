@@ -1,4 +1,4 @@
 # suraj_first_repo
-this is my first repona
+this is my first repo
 name:suraj
 
